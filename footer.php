@@ -6,7 +6,7 @@
 </body>
 
 <footer class="signature">
-    <em>&copy; acastano & taitomer | Hive 2022</em>
+    <em>&copy; acastano | Hive 2022</em>
   </footer>
 
 </html>

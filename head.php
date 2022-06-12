@@ -24,8 +24,8 @@
           <a href="product_page.php">Products</a>
         </button>
         <div class="dropdown-content" id="out1">
-          <a href="product_page.php">Inside plants</a>
-          <a href="product_page.php">Outside plants</a>
+          <a href="product_page_inside.php">Inside plants</a>
+          <a href="product_page_outside.php">Outside plants</a>
           <a href="product_page.php">All</a>
         </div>
       </div>
@@ -85,5 +85,5 @@
       }
       ?>
     </nav>
-    </body>
-    </html>
+    <!-- </body>
+    </html> -->
